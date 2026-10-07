@@ -1,0 +1,5 @@
+pyarrow venv/
+.env
+credentials/
+*.pyc
+__pycache__/

@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+# Credenciales y secretos de GCP
+credentials/
+.env
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
